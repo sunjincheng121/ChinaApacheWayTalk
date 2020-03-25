@@ -20,7 +20,8 @@
 == !
 :description: 介绍ASF以及Apache之道的60分钟演讲
 :keywords: Apache之道
-:authors: 演讲者 + \
+:authors: 演讲者 
+:imagesdir: ../resources/images + \
 Craig Russell + \
 Justin Mclean + \
 姜宁 + \
